@@ -1,6 +1,6 @@
 ﻿using NPOI.HSSF.UserModel;
 using System.IO;
-using Y41.OfficeTool.NpoiHelper.Extensions;
+using Y41.OfficeTool.NpoiExcelHelper.Extensions;
 
 namespace Simple
 {
