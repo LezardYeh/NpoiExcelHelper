@@ -262,7 +262,7 @@ namespace Y41.OfficeTool.NpoiExcelHelper
         /// <summary>
         /// 完成設定，繪製儲存格
         /// </summary>
-        public void Ok()
+        public void Render()
         {
             _cellStyle.SetFont(_font);
             _cell.CellStyle = _cellStyle;
